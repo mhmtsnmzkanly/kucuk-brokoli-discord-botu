@@ -21,7 +21,10 @@ Merakım üzerine oluşturduğum ve sonra fazla uğraşmadığım bir bot.
 - **Commands/x.ts** Harmony için gelişmiş komut dosyası.
 
 ## Görseller:
-..
+![Komut Ekranı](https://i.hizliresim.com/nm7ueq3.PNG)
+![Selamlama](https://i.hizliresim.com/lvd1b7e.PNG)
+![Günaydın](https://i.hizliresim.com/sa51m7z.PNG)
+![Kötüyüm](https://i.hizliresim.com/hw8k4gj.PNG)
 
 ## Destek olmak için:
 - Destek olmak için __kendi yazdığınız kodları__ benimle paylaşabilirsiniz.
