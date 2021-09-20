@@ -20,5 +20,9 @@ Merakım üzerine oluşturduğum ve sonra fazla uğraşmadığım bir bot.
 - **Commands/y.ts** Harmony için prototip temelli (zincirleme) komut dosyası.
 - **Commands/x.ts** Harmony için gelişmiş komut dosyası.
 
+## Görseller:
+..
+
 ## Destek olmak için:
-- Destek olmak için __kendi emeğiniz__ ile yazdığınız kodları benimle paylaşabilirsiniz.
+- Destek olmak için __kendi yazdığınız kodları__ benimle paylaşabilirsiniz.
+- Komutlarınızı benimle paylaşabilirsiniz.
